@@ -1,18 +1,18 @@
-\{\
-  "errorCode": 0, \
-  "errorString": "ok", \
-  "hotspots": [\
-    \{\
-      "anchor": \{\
-        "geolocation": \{\
-          "lat": 37.883, \
-          "lon": 4.768533000000001\
-        \}\
-      \}, \
-      "id": 1, \
-      "text": \{\
-        "title": \'93OfiPlayera\'94\
-      \}\
-    \}, \
- "layer": "test784q"\
-\}}
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 37.883, 
+          "lon": 4.768533000000001
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": “OfiPlayera”
+      }
+    }, 
+ "layer": "test784q"
+}
