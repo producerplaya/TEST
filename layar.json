@@ -11,7 +11,7 @@
       }, 
       "id": 1, 
       "text": {
-        "title": "This is a basic POI"
+        "title": "Fundación Botí"
       }
     }, 
     {
@@ -26,16 +26,16 @@
       }, 
       "id": 2, 
       "text": {
-        "description": "Description line 1\nDescription line 2\nand Description line 3", 
-        "title": "This POI has a custom icon and description"
+        "description": "Periféricos\nFundacion Botí\n2018", 
+        "title": "Art Sur"
       }
     }, 
     {
       "actions": [
         {
           "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+          "label": "Mas info aqui", 
+          "uri": "http://fundacionrafaelboti.com/"
         }
       ], 
       "anchor": {
