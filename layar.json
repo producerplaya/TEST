@@ -29,6 +29,13 @@
         "description": "Periféricos\nFundacion Botí\n2018", 
         "title": "Art Sur"
       }
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Mas info aqui", 
+          "uri": "http://fundacionrafaelboti.com/"
+        }
     }, 
     {
       "actions": [
