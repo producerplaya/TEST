@@ -8,7 +8,10 @@
           "lat": 37.888876, 
           "lon": -4.774035
         }
-      }, 
+      },
+      "icon": {
+        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+      },
       "id": 1, 
       "text": {
         "title": "Fundación Botí"
@@ -44,6 +47,9 @@
           "lon": -4.778001
         }
       }, 
+      "icon": {
+        "url": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
+      },
       "id": 3, 
       "text": {
         "title": "Alas6enlaplaya"
