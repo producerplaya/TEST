@@ -18,6 +18,13 @@
       }
     }, 
     {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Mas info aqui", 
+          "uri": "http://fundacionrafaelboti.com/"
+        }
+    {
       "anchor": {
         "geolocation": {
           "lat": 37.879728, 
