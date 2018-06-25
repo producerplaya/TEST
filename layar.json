@@ -24,6 +24,12 @@
         "title": "Fundación Botí"
      }
     },
+    "object": {
+  "contentType": "model/vnd.layar.l3d",
+  "url": "http://example.com/example_full.l3d",  
+  "reducedURL": "http://example_reduced.l3d",  
+  "size": 2
+},
     {
       "actions": [
         {
