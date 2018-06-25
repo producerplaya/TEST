@@ -22,9 +22,8 @@
       "id": 1, 
       "text": {
         "title": "Fundación Botí"
-     }
-      "imageURL": { 
-        "http:\/\/custom.layar.nl\/layarimage.jpeg",
+        "imageURL": "http:\/\/custom.layar.nl\/layarimage.jpeg"
+     }   
     },
     {
       "actions": [
