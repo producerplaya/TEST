@@ -25,11 +25,11 @@
         "imageURL": "http://static.layar.com/media/content_media/113/ar-small-icon.png"
      }   
     },
-    "object": {
-       "contentType": "model/vnd.layar.l3d",
-       "url": "http://example.com/example_full.l3d",  
-       "reducedURL": "http://example_reduced.l3d",  
-       "size": 2
+      "object": {
+        "contentType": "model/vnd.layar.l3d",
+        "url": "http://example.com/example_full.l3d",  
+        "reducedURL": "http://example_reduced.l3d",  
+        "size": 2
      }
     },
     {
